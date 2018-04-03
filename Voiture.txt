@@ -1,0 +1,16 @@
+123tn1456 symbo jaune 45 1996/5/4 l
+
+145tn6666 ford bleu 45 1996/5/4 l
+
+222tn2222 symbol bleu 458 1996/5/4 d
+
+145tn7777 kongo rouge 457 1996/5/4 d
+
+999tn9999 clio noir 26 2001/5/4 l
+
+000tn0000 clio jaune 65 2000/5/4 d
+
+333tn3333 symbol bleu 78 2000/5/4 d
+
+888tn8888 kango rouge 455 2001/5/4 l
+

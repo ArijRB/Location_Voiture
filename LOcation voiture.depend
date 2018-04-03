@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1461549780 source:c:\users\lenovo-pc\desktop\location voiture\main.c
+	<tchar.h>
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+	"programmes.h"
+
+1461660351 c:\users\lenovo-pc\desktop\location voiture\programmes.h
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<myconio.h>
+	<stdio.h>
+	<string.h>
+	"control.h"
+
+1460914499 source:c:\users\maroine\desktop\location voiture\main.c
+	<tchar.h>
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+	"programmes.h"
+
+1460917909 c:\users\maroine\desktop\location voiture\programmes.h
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<myconio.h>
+	<stdio.h>
+	<string.h>
+	"control.h"
+
+1461067444 source:c:\users\lenovo-pc\desktop\test\location voiture\main.c
+	<tchar.h>
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+	"programmes.h"
+
+1461068710 c:\users\lenovo-pc\desktop\test\location voiture\programmes.h
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<myconio.h>
+	<stdio.h>
+	<string.h>
+	"control.h"
+
+1461549780 source:c:\users\lenovo-pc\desktop\test - copie (2)\location voiture\main.c
+	<tchar.h>
+	<windows.h>
+	<mmsystem.h>
+	<stdio.h>
+	<stdlib.h>
+	"programmes.h"
+
+1461421121 c:\users\lenovo-pc\desktop\test - copie (2)\location voiture\programmes.h
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<myconio.h>
+	<stdio.h>
+	<string.h>
+	"control.h"
+
